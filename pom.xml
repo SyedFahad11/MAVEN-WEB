@@ -37,7 +37,6 @@
   <build>
 	
     <finalName>FirstProject</finalName>
-    <defaultGoal>clean install package</defaultGoal>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
